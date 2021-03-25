@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there👋&fontSize=90)
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=dbd5f7&height=300&section=header&text=Hi%20there👋&fontSize=20)
 
 
 ### Hi there 👋
@@ -17,3 +19,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 
+
+6FC7E1
+CDE4AD
+
+ -->
