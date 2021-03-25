@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=dbd5f7&height=170&section=header&text=Hi%20there👋&fontSize=20&animation=twinkling&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=dbd5f7&height=150&section=header&text=Hi%20there👋&fontSize=20&animation=twinkling&fontAlignY=28)
 
 
 ### Hi there 👋
