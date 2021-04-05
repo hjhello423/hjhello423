@@ -3,7 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=dbd5f7&height=150&section=header&text=Hi%20there👋&fontSize=20&animation=twinkling&fontAlignY=28)
 
 
-### Hi there 👋
+### 반가워요!! 👋👋👋
+<br> 
+  
+👀 Contact me: [00hongjun@gmail.com](mailto:00hongjun@gmail.com)
+
 
 <!--
 **00hongjun/00hongjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
