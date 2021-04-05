@@ -5,8 +5,10 @@
 
 ### 반가워요!! 👋👋👋
 <br> 
-  
-👀 Contact me: [00hongjun@gmail.com](mailto:00hongjun@gmail.com)
+
+👀 Contact me: [00hongjun@gmail.com](mailto:00hongjun@gmail.com)  
+🧐 blog : [go to blog!](https://00hongjun.github.io/)  
+
 
 
 <!--
