@@ -6,8 +6,8 @@
 ### 반가워요!! 👋👋👋
 <br> 
 
-👀 Contact me: [00hongjun@gmail.com](mailto:00hongjun@gmail.com)  
-🧐 blog : [go to blog!](https://00hongjun.github.io/)  
+👀 Contact me: [hjhello423@gmail.com](mailto:hjhello423@gmail.com)  
+🧐 blog : [go to blog!](https://steady-hello.tistory.com/)  
 
 
 
