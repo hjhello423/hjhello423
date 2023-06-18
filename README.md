@@ -6,7 +6,9 @@
 ### 반가워요!! 👋👋👋
 <br> 
 
-👀 Contact me: [hjhello423@gmail.com](mailto:hjhello423@gmail.com)  
+👀 Contact me
+* [hjhello423@gmail.com](mailto:hjhello423@gmail.com)  
+
 🧐 blog  
  * [notion blog!](https://hjhello423.notion.site/hjhello423-dev-log-335d31dc663e4b33bb7159b45081c6c6?pvs=4)  
  * [tistory blog!](https://steady-hello.tistory.com)  
